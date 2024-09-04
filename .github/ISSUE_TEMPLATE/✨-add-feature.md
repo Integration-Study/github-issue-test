@@ -2,7 +2,7 @@
 name: "✨ Add Feature"
 about: 새로운 기능을 추가할 때, 작성해주세요!
 title: "[FEAT]"
-labels: feature
+labels: feature, test
 assignees: ''
 
 ---
